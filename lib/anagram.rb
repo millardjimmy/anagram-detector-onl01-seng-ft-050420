@@ -3,3 +3,4 @@ class Anagram
     @word = word 
   end
   
+  de
